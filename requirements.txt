@@ -34,3 +34,4 @@ grpcio-status==1.62.2
 tiktoken==0.7.0
 tokenizers==0.15.2
 sentence_transformers==2.7.0
+groq==0.6.0
